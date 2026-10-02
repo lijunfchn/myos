@@ -1,0 +1,8 @@
+# 构建产物
+*.o
+*.elf
+*.bin
+*.img
+
+# 本地下载的 QEMU（tools/get-qemu.sh）
+.qemu/
